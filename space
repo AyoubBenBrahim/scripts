@@ -1,0 +1,2 @@
+df -h
+du -hd1 2>/dev/null | sort -rh
